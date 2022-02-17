@@ -1,4 +1,4 @@
-module main
+module chool
 
 go 1.16
 
