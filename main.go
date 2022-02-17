@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	emoji.Println("Hello :world_map:")
+	emoji.Println("Hello :world_map:!")
 }
