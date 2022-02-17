@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	world := emoji.Sprint(":world_map:!")
-	fmt.Println("Hello " + world)
+	world := emoji.Sprint("Hello :world_map:!")
+	fmt.Println(world)
 }
